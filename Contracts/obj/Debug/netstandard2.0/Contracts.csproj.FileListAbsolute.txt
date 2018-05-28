@@ -1,0 +1,12 @@
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CopyComplete
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\Contracts\obj\Debug\netstandard2.0\Contracts.pdb

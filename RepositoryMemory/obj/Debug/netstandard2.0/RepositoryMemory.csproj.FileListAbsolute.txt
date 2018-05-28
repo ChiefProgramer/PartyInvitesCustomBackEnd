@@ -1,0 +1,14 @@
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\bin\Debug\netstandard2.0\RepositoryMemory.deps.json
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\bin\Debug\netstandard2.0\RepositoryMemory.dll
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\bin\Debug\netstandard2.0\RepositoryMemory.pdb
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\obj\Debug\netstandard2.0\RepositoryMemory.csprojAssemblyReference.cache
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\obj\Debug\netstandard2.0\RepositoryMemory.csproj.CoreCompileInputs.cache
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\obj\Debug\netstandard2.0\RepositoryMemory.AssemblyInfoInputs.cache
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\obj\Debug\netstandard2.0\RepositoryMemory.AssemblyInfo.cs
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\obj\Debug\netstandard2.0\RepositoryMemory.csproj.CopyComplete
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\obj\Debug\netstandard2.0\RepositoryMemory.dll
+C:\Users\R-Gen\Desktop\PartyInvitesCustomAndroid\RepositoryMemory\obj\Debug\netstandard2.0\RepositoryMemory.pdb

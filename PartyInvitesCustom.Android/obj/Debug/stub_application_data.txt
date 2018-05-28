@@ -1,0 +1,2 @@
+android.app.Application
+PartyInvitesCustom.Android.PartyInvitesCustom.Android
